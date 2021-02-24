@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+#4 Lietojot markdown, esmu izveidojis, pievienojis:
+* Virsrakstu
+* Attēlu
+  * Saiti
+  * Sarakstu
+:+1:
